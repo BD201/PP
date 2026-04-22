@@ -1,0 +1,3 @@
+mpicxx -std=c++11 lab3.cpp -o matMulMPI
+sbatch lab3.slurm
+cat out4.out
